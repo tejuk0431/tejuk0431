@@ -1,22 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tejaswini lovr of kalyan</h1>
-<h3 align="center">🚀 Cloud Navigator & Microservices Craftsman</h3>
+<h1 align="center">Hi 👋, I'm TejaswiniKadali</h1>
+<h3 align="center">🚀 AI-Enabled Cloud Systems Engineer & Event-Driven Architecture Expert</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DharitriONe](https://github.com/DharitriOne)
+- 🔭 I’m currently working on [Ethereum Credit Score]((https://github.com/Ethcreditscorer/EthCreditScorer-vm ))
 
 - 🌱 I’m currently learning *API designs and Microservices*
 
-- 📫 How to reach me *kalyan12.4st@gmail.com*
+- 📫 How to reach me *kadaliteju4@gmail.com*
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kalyan3104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kalyan" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
  
@@ -36,8 +29,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan3104&show_icons=true&locale=en&layout=compact&theme=radical" alt="kalyan3104" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejuk0431&show_icons=true&locale=en&layout=compact&theme=radical" alt="tejuk0431" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan3104&show_icons=true&locale=en&theme=radical" alt="kalyan3104" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejuk0431&show_icons=true&locale=en&theme=radical" alt="tejuk0431" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan3104&theme=radical" alt="kalyan3104" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejuk0431&theme=radical" alt="tejuk0431" /></p>
